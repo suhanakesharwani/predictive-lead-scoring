@@ -29,4 +29,5 @@ In a typical sales funnel, 60-70% of leads never convert. This project solves th
 
 ## 🎥 Project Demo
 
-[![Watch Demo](https://img.youtube.com/vi/VIDEO/0.jpg)](https://drive.google.com/file/d/1XMufYTvDGvNNlz4u1Hrdle1cWL-jWpCs/view?usp=sharing)
+
+[![LeadRadar Demo](assets/demo.png)](https://drive.google.com/file/d/1XMufYTvDGvNNlz4u1Hrdle1cWL-jWpCs/view?usp=sharing)
