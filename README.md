@@ -26,6 +26,7 @@ In a typical sales funnel, 60-70% of leads never convert. This project solves th
 ├── app.py              # Streamlit Dashboard code
 ├── requirements.txt    # Project dependencies
 └── README.md           # Documentation
+```
 
 ## 🎥 Project Demo
 
